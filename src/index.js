@@ -13,9 +13,7 @@ try {
         "221715",  
         "78281597081275312961", 
         "aryan@xyz.com"
-    );
-
-    
+    );    
     myAddressBook.addContact(contact1);
     console.log(myAddressBook.getContact);
 } catch (error) {
